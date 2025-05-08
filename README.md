@@ -1,3 +1,14 @@
 # Case_Study_Hr_DataAnalysis
-### First step: data modeling and eda
+### First step: Data Modeling and eda
 I began by gathering all the relevant data and importing it into Power BI. I organized the various data sources within the data model to facilitate efficient analysis. Once I ensured that the data was properly linked and ready for use, I moved on to the next stage: conducting a preliminary exploratory data analysis to identify general trends in the HR data.
+
+### Second step:  Analyzing Demographics and Performance
+I applied my Power BI skills to extract deeper insights from the data by leveraging DAX (Data Analysis Expressions) to build custom measures and calculations. This approach helped uncover meaningful patterns related to employee demographics and performance.
+I began by identifying the key questions that Atlas Labs needed answers to, such as employee distribution by age, gender, department, and performance level. Using DAX, I created calculated metrics like average performance ratings, absenteeism rates, and departmental performance indicators to gain a better understanding of workforce dynamics.
+Additionally, I developed custom visuals within Power BI to present the data in a more interactive and insightful manner. These visuals allowed decision-makers at Atlas Labs to explore the information intuitively and gain clarity on complex HR topics.
+Being a part of the Atlas Labs team as a Data Analyst provided me with the opportunity to dive deeper into the data and transform raw numbers into actionable insights, ultimately delivering real value to the organization through data-driven decision-making.
+
+### Third step: Bringing it all together
+As I approached the final stage of the project, it was time to prepare the report for delivery to the key stakeholders at Atlas Labs. In this concluding chapter, I focused on uncovering insights related to employee attrition and identifying the key factors influencing retention.
+Using the analytical foundation I had established in the earlier stages, I conducted a targeted analysis to explore patterns related to turnover rates by department, tenure, job role, and satisfaction levels. I also utilized DAX to create measures that highlighted correlations between attrition and variables such as salary, performance, and engagement scores. These insights were crucial in helping stakeholders understand where and why attrition was occurring, as well as what could be done to improve retention.
+To ensure a professional and impactful final presentation, I dedicated time to refining the overall layout of the report. I streamlined the visuals, aligned the design with Atlas Labs' branding, and focused on delivering a clean and user-friendly experience. The final product was not only informative but also visually polished—ready to support data-driven decision-making at the highest level.
